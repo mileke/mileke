@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mileke
-- 👀 I'm a cloud infrastructure engineer
-- 🌱 currently working with Go
+- 👨🏾‍💻 I'm a cloud infrastructure engineer
+- ᠖ currently working with Go
 - 💞️ open to collaboratoins
 - 📫 How to reach me Email: milekekolawole@gmail.com
 
